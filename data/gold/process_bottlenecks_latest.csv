@@ -1,0 +1,22 @@
+process_name,department,record_count,avg_cycle_time_min,max_cycle_time_min,total_errors,avg_errors_per_run,bottleneck_rank
+Onboarding,HR,365,2489.79,9078.55,320,0.88,1
+Customs Clearance,Logistics,365,2336.31,8571.06,308,0.84,2
+Shipment Tracking,Logistics,365,1239.92,4725.18,301,0.82,3
+Policy Review,Compliance,365,1186.0,4156.66,307,0.84,4
+Compliance Check,Risk,365,609.81,2243.51,304,0.83,5
+Order Fulfillment,Operations,365,405.14,1494.15,325,0.89,6
+Regulatory Reporting,Compliance,365,404.52,1410.35,337,0.92,7
+Change Management,IT,365,400.29,1384.31,304,0.83,8
+Budget Reconciliation,Finance,365,307.83,977.86,291,0.8,9
+Inventory Replenishment,Operations,365,207.09,626.65,328,0.9,10
+Incident Resolution,IT,365,199.11,751.62,300,0.82,11
+Benefits Enrollment,HR,365,197.4,675.99,279,0.76,12
+Credit Assessment,Risk,365,152.79,630.21,320,0.88,13
+Invoice Processing,Finance,365,103.79,381.97,295,0.81,14
+Payroll Processing,HR,365,103.51,360.45,287,0.79,15
+Deployment Pipeline,IT,365,101.87,297.2,301,0.82,16
+Expense Audit,Finance,365,77.59,237.82,333,0.91,17
+Quality Check,Operations,365,51.78,155.01,293,0.8,18
+Route Optimization,Logistics,365,50.23,165.03,354,0.97,19
+AML Screening,Compliance,365,50.01,193.14,323,0.88,20
+Fraud Review,Risk,365,25.28,73.48,306,0.84,21
